@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm Yuvaraja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+%7C+Flask+Developer;Ethical+Hacking+Learner;Full-Stack+%7C+AI+Security+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Python+Developer;Ethical+Hacking+Learner;Full-Stack+Security+Projects;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">
-Building Secure Systems • Learning Every Day • Open to Opportunities
+🔐 Building Secure Systems • 🧠 Learning Every Day • 🚀 Open to Opportunities
 </h3>
 
 ---
 
-## 🧑‍💼 About Me (Recruiter-Friendly)
+## 🧑‍💼 About Me
 
-- 🔐 **Cybersecurity enthusiast** focused on ethical hacking & secure application design  
-- 🐍 Strong in **Python**, Flask, FastAPI, and backend logic  
-- 🤖 Working on **ML-based cybersecurity monitoring systems**  
-- 🧠 Hands-on with **Linux, system monitoring, and threat detection**  
-- 🎓 Engineering student passionate about **real-world projects**  
-- 🌱 Always learning, experimenting, and improving  
+- 🔐 Cybersecurity enthusiast focused on **ethical hacking & secure systems**
+- 🐍 Strong in **Python**, Flask & backend development
+- 🤖 Working on **ML-based cybersecurity monitoring**
+- 🧠 Hands-on with **Linux, system monitoring & threat detection**
+- 🎓 Engineering student building **real-world projects**
+- 🌱 Constant learner with a passion for security
 
-📌 **Looking for:** Internships / Entry-level roles in  
-**Cybersecurity • Backend • Python • Security Engineering**
+📌 **Actively looking for:**  
+**Internships / Entry-level roles in Cybersecurity, Python & Backend**
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
 ### 💻 Languages & Frameworks
 <div align="center">
@@ -58,34 +58,26 @@ Building Secure Systems • Learning Every Day • Open to Opportunities
 
 ---
 
-## 🧩 Featured Projects (Recruiters LOVE this)
+## 🧩 Featured Projects
 
-### 🔐 **Cyberx – Cybersecurity Monitoring System**
-- Real-time system monitoring (CPU, memory, network)
+### 🔐 Cyberx – Cybersecurity Monitoring System
+- Real-time CPU, memory & network monitoring
 - ML-based anomaly detection (Isolation Forest)
-- Flask + Socket.IO dashboard
-- Secure authentication & dark UI
+- Flask + Socket.IO interactive dashboard
+- Secure login system & dark-themed UI
 
-### 🤖 **AI Security & Automation Projects**
-- Python automation tools
-- OpenCV + ML experiments
-- Security-focused backend services
-
-📌 *More projects available in repositories below.*
+📌 *More projects available in my repositories.*
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/yuvaraja-a-a02681363">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/yuvaraja2007">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
 
@@ -94,32 +86,32 @@ Building Secure Systems • Learning Every Day • Open to Opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvaraja2007&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=yuvaraja2007&theme=dracula" height="150"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvaraja2007&theme=dracula&row=1&column=6"/>
 </div>
 
 ---
 
-## 🕹️ Contribution Graph
+## 🕹️ Contribution Graph (Animated)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/yuvaraja2007/yuvaraja2007/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/yuvaraja2007/yuvaraja2007/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/yuvaraja2007/yuvaraja2007/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-⭐ **Open to collaborations, internships & learning opportunities**  
-📩 *Feel free to connect with me!*
+⭐ **If you like my work, consider starring my repositories**  
+🤝 **Open to collaborations, internships & learning opportunities**
